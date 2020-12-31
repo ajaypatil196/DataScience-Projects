@@ -2,7 +2,7 @@
 #### PROJECT ON USED CAR SALES
 
 ![enter link description here](https://media3.picsearch.com/is?KoNpRfiN9EyUZ-xtDzjxJ0DSuP3EG5rUdR70PwU0bi4&height=255)
-##The dataset was procured from INSAID and the data was analyzed
+
 
 #Car Sales Analysis was done based on various factors such as:
 1. Brands

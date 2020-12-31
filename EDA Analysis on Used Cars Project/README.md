@@ -1,4 +1,3 @@
-# This folder is only for EDA project 
 #### PROJECT ON USED CAR SALES
 
 ![enter link description here](https://media3.picsearch.com/is?KoNpRfiN9EyUZ-xtDzjxJ0DSuP3EG5rUdR70PwU0bi4&height=255)

@@ -11,9 +11,18 @@
 5. Mileage
 6. EngV
 
-#Python libraries were used
+#Below Python libraries were used:
+
+ - Numpy
+ - Pandas
+ - Seaborn
+ - Matplotlib
+ 
+
+
 
 #Missing values were replaced with mean / median
 
 
 For Used Car Analysis Notebook, please click [here](https://github.com/ajaypatil196/DataScience-Projects/blob/main/EDA%20Analysis%20on%20Used%20Cars%20Project/Analysis%20of%20Used%20Car%20Sales_Dec_2020_Project_Term1&2.ipynb).
+
